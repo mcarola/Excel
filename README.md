@@ -25,6 +25,8 @@ This project demonstrates my proficiency in Excel data analysis, pivot tables, d
 ### Task 1: Bike Sales Pivot Table Analysis
 **Objective**: Analyze bike sales data across multiple countries, age groups, and genders
 
+![excel1](https://github.com/user-attachments/assets/959a5fef-0886-417d-ad47-e0dd6c6f2524)
+
 **Key Findings**:
 - Identified market segmentation across 6 countries (US, UK, Australia, Germany, France, Canada)
 - Discovered Germany exclusively targets the 35-64 age demographic
@@ -38,6 +40,7 @@ This project demonstrates my proficiency in Excel data analysis, pivot tables, d
 
 ### Task 2: Product Sales Analysis with SWITCH Function
 **Objective**: Analyze product performance across English counties with automated categorization
+
 
 **Technical Implementation**:
 ```excel
