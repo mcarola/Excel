@@ -41,16 +41,19 @@ This project demonstrates my proficiency in Excel data analysis, pivot tables, d
 ### Task 2: Product Sales Analysis with SWITCH Function
 **Objective**: Analyze product performance across English counties with automated categorization
 
+![excel-task2](https://github.com/user-attachments/assets/3139d890-ec34-40c4-86f0-9c4422b11305)
+![excel-task3](https://github.com/user-attachments/assets/2cd13609-c89b-4c85-9309-3409b52d887d)
+
 
 **Technical Implementation**:
 ```excel
 =SWITCH(TRUE, C2 > 600, "High", C2 >= 300, "Medium", "Low")
 ```
-
 **Dataset Coverage**:
 - 6 counties analyzed (Yorkshire, Cornwall, Lancashire, Essex, Durham, Greater Manchester)
 - 3 product categories (Laptops, Smartphones, Printers)
-- Sales volume categorization using conditional logic
+- Sales 
+volume categorization using conditional logic
 
 **Deliverables**:
 - Comprehensive pivot table summarizing sales by county and product
@@ -58,6 +61,8 @@ This project demonstrates my proficiency in Excel data analysis, pivot tables, d
 
 ### Task 3: Bike Sales Data Visualization
 **Objective**: Create visual representations of bike sales data for stakeholder communication
+
+![excel-bikes](https://github.com/user-attachments/assets/e14ceae4-84be-4a60-8310-0cfde2ec89c2)
 
 **Visualizations Created**:
 - Multiple chart types demonstrating sales trends
@@ -102,7 +107,7 @@ This analysis demonstrates the ability to:
 ---
 
 ## 🤝 Connect With Me
-*Add your contact information and professional links here*
+https://www.linkedin.com/in/marvyccmo/
 
 ---
 
